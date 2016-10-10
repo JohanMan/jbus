@@ -1,7 +1,8 @@
 package com.johan.jbus;
 
 /**
- * Created by Administrator on 2016/10/10.
+ * Event类 : 事件，携带tag和args，存在于queue中
+ * Created by Johan on 2016/10/10.
  */
 public class Event {
 

@@ -4,6 +4,7 @@ import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
 /**
+ * EventHandler类 : 处理event
  * Created by Johan on 2016/10/10.
  */
 public class EventHandler {

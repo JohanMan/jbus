@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.concurrent.ConcurrentLinkedQueue;
 
 /**
- * Bus类
+ * Bus类 : 总线类
  * Created by Johan on 2016/10/10.
  */
 public enum Bus {
